@@ -101,14 +101,14 @@
             android:id="@+id/checkBoxnnt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nonton" />
+            android:text="Nonton Film" />
 
         <CheckBox
             android:id="@+id/checkBoxmsk"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="false"
-            android:text="Musik" />
+            android:text="Dengar Musik" />
 
 
         <Button
